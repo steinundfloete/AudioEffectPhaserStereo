@@ -1,0 +1,20 @@
+---
+
+## 🗝️ `keywords.txt`
+
+```text
+#######################################
+# Syntax Coloring Map For AudioEffectPhaserStereo
+#######################################
+
+AudioEffectPhaserStereo	KEYWORD1
+
+setRate	KEYWORD2
+setDepth	KEYWORD2
+setFeedback	KEYWORD2
+setMix	KEYWORD2
+setStages	KEYWORD2
+setCoeffRange	KEYWORD2
+setLfoPhaseOffset	KEYWORD2
+setNegativeResonance	KEYWORD2
+reset	KEYWORD2
