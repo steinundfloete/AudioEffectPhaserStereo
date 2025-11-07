@@ -27,8 +27,7 @@ void AudioEffectPhaserStereo::init() {
     setRate(rate);
 }
 
-void AudioEffectPhaserStereo::update(void)
-{
+void AudioEffectPhaserStereo::update(void) {
     audio_block_t *blockL = receiveWritable(0);
     audio_block_t *blockR = receiveWritable(1);
 

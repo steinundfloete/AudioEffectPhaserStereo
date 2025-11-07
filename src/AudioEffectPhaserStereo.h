@@ -44,10 +44,7 @@
 class AudioEffectPhaserStereo : public AudioStream
 {
 public:
-    AudioEffectPhaserStereo() : AudioStream(2, inputQueueArray)
-    {
-        init();
-    }
+    AudioEffectPhaserStereo();
 
     /**
      * @brief Audio processing entry point. Called automatically by the Teensy audio engine.
